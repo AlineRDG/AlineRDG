@@ -1,6 +1,6 @@
 # Olá, eu sou a AlineRDG também conhecida como Alinexx.
 
-## Um perfil que está conhecendo sobre programação.
+ Um perfil que está conhecendo sobre programação.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
