@@ -10,4 +10,5 @@
   
   <div>
    <a href="https://discord.gg/W7NJ8Eq784" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://codepen.io/alinerdg" target="_blank"><img height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_tile_logo_icon_170346.png">
   </div>
