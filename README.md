@@ -1,6 +1,6 @@
-#### Olá, eu sou a AlineRDG também conhecida como Alinexx.
+#### Olá, eu sou a Aline também conhecida como Alinexx.
 
- Um perfil que está conhecendo sobre programação.
+ Tenho 18 anos e estou conhecendo sobre programação básico.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
