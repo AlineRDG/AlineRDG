@@ -1,6 +1,6 @@
-#### Olá, eu sou a Aline também conhecida como Alinexx.
+#### Olá, eu sou a Aline também conhecida como AR|MKT.
 
- Tenho 18 anos e estou conhecendo sobre programação básico.
+ Tenho 19 anos e estou conhecendo sobre programação básico.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
